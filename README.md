@@ -2,7 +2,7 @@
 
 *I Make Things*
 
-👋 Hi there! I'm a high school student passionate about technology, data science, and programming. I'm part of my school's FRC robotics team and have experience with Python, web development, and problem-solving in computer science. I love tackling challenging projects, whether it's building code, working on school assignments, or developing personal projects. I also enjoy snowboarding, swimming, and exploring new ways to combine creativity with technical skills. Currently, I'm honing my skills in preparation for a future in data science and hoping to get into the University of Toronto!
+👋 Hi there! I'm a high school student passionate about technology, data science, and programming. I'm part of my school's FRC robotics team and have experience with Python, web development, and problem-solving in computer science. I love tackling challenging projects, whether it's building code, working on school assignments, or developing personal projects. I also enjoy snowboarding, swimming, and exploring new ways to combine creativity with technical skills. Currently, I'm honing my skills in preparation for a future in data science and hoping to get into U of T!
 
 ### 📓 Languages / Toolbox
 
