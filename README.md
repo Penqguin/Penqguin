@@ -16,6 +16,7 @@
 <img align="left" alt="Premiere Pro" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right:right;"/>
+<br>
 
 ### 📓 I'm currently working on:
 
