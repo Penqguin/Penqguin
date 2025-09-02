@@ -21,9 +21,7 @@
 
 ### 📓 I'm currently working on:
 
-- Building a movie recomender
-- Solving computer science problems in various languages
-- Building a top down rpg(might make it side scroll)
+- making a window manager for macos
 <!--
 **Penqguin/Penqguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
