@@ -6,8 +6,8 @@
     </picture>
   </a>
   <br />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPenqguin%2FPenqguin%2Fmain%2Fdata%2Fstats.json%3Fv%3D2&query=%24.commits&label=Total%20Commits&style=flat-square&color=e59b4f" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPenqguin%2FPenqguin%2Fmain%2Fdata%2Fstats.json%3Fv%3D2&query=%24.prs&label=Total%20PRs&style=flat-square&color=e59b4f" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3APenqguin&query=%24.total_count&label=Total%20Commits&style=flat-square&color=e59b4f" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3APenqguin%2Btype%3Apr&query=%24.total_count&label=Total%20PRs&style=flat-square&color=e59b4f" alt="Total PRs" />
   <img src="https://img.shields.io/github/followers/Penqguin?label=Followers&style=flat-square&color=e59b4f" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Penqguin?affiliations=OWNER&label=Stars&style=flat-square&color=e59b4f" alt="Stars" />
   <img src="https://komarev.com/ghpvc/?username=Penqguin&label=Profile%20Views&style=flat-square&color=e59b4f" alt="Profile Views" />
