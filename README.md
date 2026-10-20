@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./neofetch-dark.svg" />
     <img src="./neofetch-light.svg" width="85%" alt="michael@penqguin — neofetch" />
   </picture>
+  <br />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPenqguin%2FPenqguin%2Fmain%2Fdata%2Fstats.json%3Fv%3D2&query=%24.commits&label=Total%20Commits&style=flat-square&color=e59b4f" alt="Total Commits" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPenqguin%2FPenqguin%2Fmain%2Fdata%2Fstats.json%3Fv%3D2&query=%24.prs&label=Total%20PRs&style=flat-square&color=e59b4f" alt="Total PRs" />
   <img src="https://img.shields.io/github/followers/Penqguin?label=Followers&style=flat-square&color=e59b4f" alt="Followers" />
