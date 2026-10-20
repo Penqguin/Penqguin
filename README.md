@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://penqguin.com">
     <picture>
+      <source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="./neofetch-dark-stack.svg" />
+      <source media="(max-width: 700px)" srcset="./neofetch-light-stack.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="./neofetch-dark.svg" />
-      <img src="./neofetch-light.svg" width="85%" alt="michael@penqguin — neofetch" />
+      <img src="./neofetch-light.svg" width="50%" alt="michael@penqguin — neofetch" />
     </picture>
   </a>
   <br />
